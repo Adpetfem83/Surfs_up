@@ -1,5 +1,3 @@
-# surfs_up-1
-
 
 # Surfs_up
 Precipitation, Temperature and Weather Station analysis using SQLite and SQLAlchemy. Climate App building using Flask. Other tools use in this analysis include Python and Jupyter Notebooks.
@@ -31,7 +29,7 @@ The following are summary of this project
 
 This data is comprised of 1700 entries.
 
-!["june_temp"](https://github.com/Wall-E28/surf_analysis/blob/master/resources/june_temp.png)
+!["june_temp"](https://github.com/Adpetfem83/surfs_up/blob/main/Images/June_temp.png)
 
 ### December Takeaways
 
@@ -41,7 +39,7 @@ This data is comprised of 1700 entries.
 
 This data is comprised of 1517 entries.
 
-!["dec_temp"](https://github.com/Wall-E28/surf_analysis/blob/master/resources/dec_temp.png)
+!["dec_temp"](https://github.com/Adpetfem83/surfs_up/blob/main/Images/Dec_temp.png)
 
 ### Summary
 
